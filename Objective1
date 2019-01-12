@@ -35,27 +35,6 @@
   </div>
 
 <hr>
-
-<div class="container">
-    <!-- Example row of columns -->
-    <div class="row">
-        <div class="col-md-12">
-          <h2>Key Result: Address at least one finding from the most recent audit</h2>
-          <h2>Starting Point: No Progress</h2>
-          <h1><span class="text-success">Current Measure: 12 Steps Completed</span></h1>
-          <br><p>How accurately we address issues identified in our annual audits is essential to how we control spending. Our audit finding has recommended that we address 13 organizational issues to strengthen our operations.</p>
-          <h2>Method:</h2>
-          <ol>
-          <li>Our audit findings have identified 13 recommendations for city government to observe. </li>
-          <li>We have created a project plan to ensure that we address each of our audit recommendations in succession. </li>
-          <li>The dates below show the progress we are making, over time, to complete our Audit Improvement Plan. </li>
-          
-</ol>
-        </div>
-
-          <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="http://dashboards.syrgov.net/viz/Obj1KR2_viz.html", width="100%", height = "400"></iframe>
-
-      </div>
   </div>
 
   </body>
