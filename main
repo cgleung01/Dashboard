@@ -1,0 +1,121 @@
+.red-dot {
+  height: 25px;
+  width: 25px;
+  background-color: #CC0000;
+  border-radius: 50%;
+  display: inline-block;
+}
+.yellow-dot {
+  height: 25px;
+  width: 25px;
+  background-color: #FFFF00;
+  border-radius: 50%;
+  display: inline-block;
+}
+.green-dot {
+  height: 25px;
+  width: 25px;
+  background-color: #009900;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.table {
+    border-radius: 5px;
+    width: 50%;
+    margin: 0px auto;
+    float: none;
+}
+
+#center {
+  text-align: center;
+}
+#jumbotronbg {
+  background-color: #3c2d5a;
+}
+#mapid { height: 180px; }
+
+#notes-border {border: 1px black;}
+table.myTable{
+  border-collapse:collapse;
+}
+
+#inner {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.card {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #3c2d5a;
+    border-color: #ffffff;
+}
+
+table.myTable tr{
+  border:1px solid red;
+}
+
+.initiative-department{
+  font-size: 20px;
+  color: steelblue;
+}
+
+.card-green{
+  border-style: solid;
+  border-width: 15px;
+  border-color: green;
+  height: 300px;
+  width: 232px;
+  background-color: lightgreen;
+  text-align: center;
+
+
+  }
+  .card-red{
+  border-style: solid;
+  border-width: 10px;
+  border-color: red;
+  height: 300px;
+  width: 232px;
+  background-color: lightpink;
+  text-align: center;
+  }
+  .card-yellow{
+  border-style: solid;
+  border-width: 10px;
+  border-color: yellow;
+  height: 300px;
+  width: 232px;
+  background-color: lightyellow;
+  text-align: center;
+  }
+
+.mytable>thead>tr>td{
+    padding-bottom: 10px;
+}
+
+.card-heading{
+font-size:25px;
+}
+.card-metric{
+
+color:blue;
+font-size:40px;
+font-weight: bold;
+}
+.card-description{
+font-size:17px;
+color:grey;
+}
+.card-progress{
+font-size:20px;
+}
+
+.table th, .table td {
+     border-top: none !important;
+ }
