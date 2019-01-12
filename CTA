@@ -1,0 +1,21 @@
+
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron" id="jumbotronbg">
+      <div class="container" id="center">
+        <div class="row">
+                  <div class="col-md-2">
+          <i class="fas fa-hand-holding-usd" style="font-size:4em;color:white;"></i>
+        </div>
+          <div class="col-md 8">
+        <h1 style="color:white">Objective: Achieve Fiscal Sustainability</h1>
+        <div class="col-md-12" style="color:white">
+          <p>The City is on a path toward achieving fiscal sustainability.  To show our city's growth, we'll have to show that we can manage spending and grow revenue. The City projected an $11 million budget deficit for the 2019 Fiscal Year (July 2018-June 2019). The key results for <strong>Achieving Fiscal Sustainability</strong> will both allow for and be a signal of a growing city.</p>
+          <a class="btn btn-primary" href="http://dashboards.syrgov.net/API/Fiscal_Sustainability_Objective.html" role="button">In-depth analysis</a>
+        </div>
+        </div>  
+        <div class="col-md-2">
+          <i class="fas fa-chart-line" style="font-size:4em;color:white;"></i>
+        </div>
+      </div>
+        </div>
+      </div>
