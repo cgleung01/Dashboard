@@ -14,64 +14,6 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Objective: Achieve Fiscal Sustainability </title>
 
-<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
-      <a class="navbar-brand" href="http://syrgov.net">City of Syracuse  <i class="fas fa-chart-line"></i></a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-
-      <div class="collapse navbar-collapse" id="navbarsExampleDefault">
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item">
-            <a class="nav-link" href="./index.html">Dashboard Home</a>
-          </li>
-          <li class="nav-item active">
-            <a class="nav-link" href="./Objective1.html"><i class="fas fa-hand-holding-usd"></i> Fiscal Sustainability <span class="sr-only">(current)</span></a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="./Objective2.html"><i class="fas fa-home"></i> Neighborhood Stability</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="./Objective3.html"><i class="fas fa-comments"></i> Constituent Engagement</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="./Objective4.html"><i class="fas fa-screwdriver"></i> City Services</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link text-success" href="https://innovatesyracuse.com/performance" target="_blank"><i class="far fa-thumbs-up" style="color:green;"></i> Successes</a>
-          </li>
-                    <li class="nav-item">
-            <a class="nav-link" href="https://docs.google.com/document/d/1qdaRpO8-z8oSAAIFDNI5hJuXtHV9-hN-ICyuFRgoR-Y/edit?usp=sharing" target="_blank"></i>Key Terms</a>
-          </li>
-        </ul>
-      </div>
-    </nav>
-
-    <!-- Main jumbotron for a primary marketing message or call to action -->
-    <div class="jumbotron" id="jumbotronbg">
-      <div class="container" id="center">
-        <div class="row">
-                  <div class="col-md-2">
-          <i class="fas fa-hand-holding-usd" style="font-size:4em;color:white;"></i>
-        </div>
-          <div class="col-md 8">
-        <h1 style="color:white">Objective: Achieve Fiscal Sustainability</h1>
-        <div class="col-md-12" style="color:white">
-          <p>The City is on a path toward achieving fiscal sustainability.  To show our city's growth, we'll have to show that we can manage spending and grow revenue. The City projected an $11 million budget deficit for the 2019 Fiscal Year (July 2018-June 2019). The key results for <strong>Achieving Fiscal Sustainability</strong> will both allow for and be a signal of a growing city.</p>
-          <a class="btn btn-primary" href="http://dashboards.syrgov.net/API/Fiscal_Sustainability_Objective.html" role="button">In-depth analysis</a>
-        </div>
-        </div>  
-        <div class="col-md-2">
-          <i class="fas fa-chart-line" style="font-size:4em;color:white;"></i>
-        </div>
-      </div>
-        </div>
-      </div>
-
-
-    
-
-
 <div class="container">
     <!-- Example row of columns -->
     <div class="row">
