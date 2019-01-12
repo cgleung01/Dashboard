@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<style type="text/css">
+.knitr .inline {
+  background-color: #f7f7f7;
+  border:solid 1px #B0B0B0;
+}
+.error {
+	font-weight: bold;
+	color: #FF0000;
+}
+.warning {
+	font-weight: bold;
+}
+.message {
+	font-style: italic;
+}
+.source, .output, .warning, .error, .message {
+	padding: 0 1em;
+  border:solid 1px #F7F7F7;
+}
+.source {
+  background-color: #f5f5f5;
+}
+.rimage .left {
+  text-align: left;
+}
+.rimage .right {
+  text-align: right;
+}
+.rimage .center {
+  text-align: center;
+}
+.hl.num {
+  color: #AF0F91;
+}
+.hl.str {
+  color: #317ECC;
+}
+.hl.com {
+  color: #AD95AF;
+  font-style: italic;
+}
+.hl.opt {
+  color: #000000;
+}
+.hl.std {
+  color: #585858;
+}
+.hl.kwa {
+  color: #295F94;
+  font-weight: bold;
+}
+.hl.kwb {
+  color: #B05A65;
+}
+.hl.kwc {
+  color: #55aa55;
+}
+.hl.kwd {
+  color: #BC5A65;
+  font-weight: bold;
+}
+</style>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Objective: Achieve Fiscal Sustainability </title>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
+    <link href="css/main.css" rel="stylesheet">
+
+       <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/v4-shims.css">
+
+    <!-- Highcharts scripts -->
+
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+
+    <!-- Highcharts scripts -->
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+  <script src="js/highcharts.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66477210-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-66477210-5');
+</script>
+
+  </head>
+<body>
+
+<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+      <a class="navbar-brand" href="http://syrgov.net">City of Syracuse  <i class="fas fa-chart-line"></i></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="./index.html">Dashboard Home</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="./Objective1.html"><i class="fas fa-hand-holding-usd"></i> Fiscal Sustainability <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="./Objective2.html"><i class="fas fa-home"></i> Neighborhood Stability</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="./Objective3.html"><i class="fas fa-comments"></i> Constituent Engagement</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="./Objective4.html"><i class="fas fa-screwdriver"></i> City Services</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-success" href="https://innovatesyracuse.com/performance" target="_blank"><i class="far fa-thumbs-up" style="color:green;"></i> Successes</a>
+          </li>
+                    <li class="nav-item">
+            <a class="nav-link" href="https://docs.google.com/document/d/1qdaRpO8-z8oSAAIFDNI5hJuXtHV9-hN-ICyuFRgoR-Y/edit?usp=sharing" target="_blank"></i>Key Terms</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron" id="jumbotronbg">
+      <div class="container" id="center">
+        <div class="row">
+                  <div class="col-md-2">
+          <i class="fas fa-hand-holding-usd" style="font-size:4em;color:white;"></i>
+        </div>
+          <div class="col-md 8">
+        <h1 style="color:white">Objective: Achieve Fiscal Sustainability</h1>
+        <div class="col-md-12" style="color:white">
+          <p>The City is on a path toward achieving fiscal sustainability.  To show our city's growth, we'll have to show that we can manage spending and grow revenue. The City projected an $11 million budget deficit for the 2019 Fiscal Year (July 2018-June 2019). The key results for <strong>Achieving Fiscal Sustainability</strong> will both allow for and be a signal of a growing city.</p>
+          <a class="btn btn-primary" href="http://dashboards.syrgov.net/API/Fiscal_Sustainability_Objective.html" role="button">In-depth analysis</a>
+        </div>
+        </div>  
+        <div class="col-md-2">
+          <i class="fas fa-chart-line" style="font-size:4em;color:white;"></i>
+        </div>
+      </div>
+        </div>
+      </div>
+
+
+    
+
+
+<div class="container">
+    <!-- Example row of columns -->
+    <div class="row">
+        <div class="col-md-12">
+          <h2>Key Result: General budget variance should reduce from 11% to 5%</h2>
+          <h2>Starting Point: -65% Variance</h2>
+          <h1><span class="text-success"> Current Measure: -4% Variance</span></h1>
+          <h2>Method: </h2>
+          <ol>
+            <li>Below are budget variances for key departments in City government. Some variances are expected, while others are not and need to be controlled.</li>
+            <li>Selecting the variance bar for each department drills-down to that department’s budget categories.</li>
+            <li>Return to previous departments by clicking the button above the graph.</li>
+          </ol>
+        </div>
+
+          <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="http://dashboards.syrgov.net/viz/Obj1KR1_viz.html", width="100%", height = "600"></iframe>
+
+      </div>
+  </div>
+
+<hr>
+
+<div class="container">
+    <!-- Example row of columns -->
+    <div class="row">
+        <div class="col-md-12">
+          <h2>Key Result: Address at least one finding from the most recent audit</h2>
+          <h2>Starting Point: No Progress</h2>
+          <h1><span class="text-success">Current Measure: 12 Steps Completed</span></h1>
+          <br><p>How accurately we address issues identified in our annual audits is essential to how we control spending. Our audit finding has recommended that we address 13 organizational issues to strengthen our operations.</p>
+          <h2>Method:</h2>
+          <ol>
+          <li>Our audit findings have identified 13 recommendations for city government to observe. </li>
+          <li>We have created a project plan to ensure that we address each of our audit recommendations in succession. </li>
+          <li>The dates below show the progress we are making, over time, to complete our Audit Improvement Plan. </li>
+          
+</ol>
+        </div>
+
+          <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="http://dashboards.syrgov.net/viz/Obj1KR2_viz.html", width="100%", height = "400"></iframe>
+
+      </div>
+  </div>
+
+      <footer class="my-5 pt-5 text-muted text-center text-small">
+        <p class="mb-1">&copy; 2018 City of Syracuse</p>
+        <ul class="list-inline">
+          <li class="list-inline-item"><a href="http://syrgov.net" target="_blank">Home</a></li>
+          <li class="list-inline-item"><a href="http://twitter.com/Syracuse1848" target="_blank">Twitter</a></li>
+          <li class="list-inline-item"><a href="https://www.facebook.com/Syracuse1848/" target="_blank">Facebook</a></li>
+          <li class="list-inline-item"><a href="http://www.innovatesyracuse.com/" target="_blank">Innovate Syracuse</a></li>
+        </ul>
+      </footer>
+  </body>
+  </html>
